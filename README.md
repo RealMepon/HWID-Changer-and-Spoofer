@@ -16,10 +16,10 @@ A tool i made to unban you if you got hardware banned. Its working for big games
 ## How to use:
 
 1. download all files
-2. open the ** .sln ** file
+2. open the **.sln** file
 3. go to create/create projekt
-4. open the created ** .exe ** file as admin
-5. type in ** 8 **
+4. open the created **.exe** file as admin
+5. type in **8**
 
 ## Disclaimer:
 This program is for education only i am not responsible for any damage.
